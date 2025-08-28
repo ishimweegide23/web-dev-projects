@@ -1,3 +1,3 @@
 # web-dev-projects
 
-# ishimwe kwiEgide
+# ishimwe kwibEgide
